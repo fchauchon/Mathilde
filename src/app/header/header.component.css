@@ -1,0 +1,54 @@
+.general {
+
+  height: 30%;
+
+  border: 1px solid;
+
+  background-color: black;
+
+  font-size: x-large;
+
+  font-family: Helvetica, sans-serif;
+
+}
+
+
+a {
+
+text-decoration: none;
+
+color: white;
+
+}
+
+
+
+
+.routerLink {
+
+  color :rgb(255, 255, 255);
+
+  text-align: center;
+
+}
+
+
+
+.center {
+
+display: flex;
+
+justify-content: center;
+
+}
+
+
+
+.gras {
+
+  font-weight: bold;
+
+  color : yellow;
+
+}
+
